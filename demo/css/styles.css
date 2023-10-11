@@ -1,0 +1,17 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+h1 {
+    margin-bottom: 1.6em;    
+}
+#main {
+    width: 75%;
+}
+.featured {
+    font-weight: bold;
+}
+section#main a {
+    color: lightblue;
+}
